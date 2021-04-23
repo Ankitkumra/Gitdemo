@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 1.28 s <<< FAILURE! - in TestSuite
+Btes_HRMTest.LoginTest.Launch  Time elapsed: 0.841 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Btes_HRMTest.LoginTest.Launch(LoginTest.java:19)
+
